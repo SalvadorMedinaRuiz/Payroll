@@ -1,0 +1,5 @@
+
+Weekly Payroll
+
+Employee's name: George and Weekly Pay is: $262.5
+Employee's name: Marvin and Weekly Pay is: $1007.5
